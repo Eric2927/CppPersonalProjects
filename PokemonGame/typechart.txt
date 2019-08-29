@@ -1,0 +1,27 @@
+#6 | | 13 @
+#2 8 12 | 1 4 5 11 | @
+#3 4 | 1 2 5 | @
+#8 | 3 9 | @
+#1 5 7 9 11 | 2 3 4 8 | @
+#1 6 12 | 5 | @
+#9 10 | 11 12 | @
+#8 10 | 4 6 7 11 | @
+#2 4 5 | 7 12 | 3 @
+#3 5 12 | 4 6 11 | 8 @
+#11 13 | 6 10 | @
+#1 9 12 | 4 6 8 | @
+#2 4 6 8 | 0 2 7 9 | @
+#13 | 7 11 | 0 6 @
+#5 14 | 1 2 3 4 | @
+
+sem = super effective move
+nem = not effective move
+noem = no effect move
+Format: #sem1 sem2 ... | nem1 nem2 ... | noem1 noem2 ... @
+
+These are based on defense typings.
+Every line represents a type and 
+indicates the moves that would
+be super effective, not effective,
+or have no effect on that type
+represented by the line. 
