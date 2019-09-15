@@ -186,7 +186,7 @@ Pokemon::Pokemon(int ID, bool customize)
 
 void Pokemon::takeMove(Pokemon* opponent, Move &move, Weather weather, vector<FieldStatus> fieldStatus)
 {
-	if (rand() % 100 < move.m_accuracy || opponent->m_ability == No_Guard)		// Checks if move hits
+	if (rand() % 100 < move.m_accuracy || opponent->m_ability == No_Guard)		// Checks if move hits. Move always hits if move user's ability is no guard.
 	{
 		int damage = 0;
 
