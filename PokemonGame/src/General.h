@@ -38,6 +38,9 @@ enum SecondaryEffect {FirstPriority, E_Burn, E_Paralyze, E_Poison, E_Sleep,
 	HighCrit, R_Speed2, Facade, Dragon_Dance, Ice_Fang, Psyshock, Calm_Mind,
 	Quiver_Dance, Brick_Break, Curse, Recover, Bulk_Up, No_Effect};
 
+// This represents all of the possible items that the pokemon may be holding
+enum Item {ExpertBelt, Leftovers, Choice_Band, Choice_Specs, Choice_Scarf};
+
 // Represents weather during battle (there is nothing implemented currently that would trigger rain or hail,
 // but they are there so that I can add on to this game in the future, which I am planning to do)
 enum Weather {Clear, Sun, Rain};
