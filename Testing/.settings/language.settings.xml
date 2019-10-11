@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project>
     	
-    <configuration id="cdt.managedbuild.config.gnu.macosx.exe.debug.1940475888" name="Debug">
+    <configuration id="cdt.managedbuild.config.gnu.macosx.exe.debug.1759913302" name="Debug">
         		
         <extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
             			
@@ -11,7 +11,7 @@
             			
             <provider-reference id="org.eclipse.cdt.managedbuilder.core.MBSLanguageSettingsProvider" ref="shared-provider"/>
             			
-            <provider class="org.eclipse.cdt.managedbuilder.language.settings.providers.GCCBuiltinSpecsDetector" console="false" env-hash="-1647029288823902106" id="org.eclipse.cdt.managedbuilder.core.GCCBuiltinSpecsDetector" keep-relative-paths="false" name="CDT GCC Built-in Compiler Settings" parameter="${COMMAND} ${FLAGS} -E -P -v -dD &quot;${INPUTS}&quot;" prefer-non-shared="true">
+            <provider class="org.eclipse.cdt.managedbuilder.language.settings.providers.GCCBuiltinSpecsDetector" console="false" env-hash="-1647028698019672470" id="org.eclipse.cdt.managedbuilder.core.GCCBuiltinSpecsDetector" keep-relative-paths="false" name="CDT GCC Built-in Compiler Settings" parameter="${COMMAND} ${FLAGS} -E -P -v -dD &quot;${INPUTS}&quot;" prefer-non-shared="true">
                 				
                 <language-scope id="org.eclipse.cdt.core.gcc"/>
                 				
@@ -23,7 +23,7 @@
         	
     </configuration>
     	
-    <configuration id="cdt.managedbuild.config.macosx.exe.release.2058368349" name="Release">
+    <configuration id="cdt.managedbuild.config.macosx.exe.release.105925098" name="Release">
         		
         <extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
             			
